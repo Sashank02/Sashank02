@@ -6,7 +6,7 @@ I’m an **App Engineer at Tiger Analytics** and a recent **CS graduate** from t
 - **Tech Stack:** Python, JavaScript, React, Node.js, Django, FastAPI, Tailwind CSS
 
 ## 📫 How to Reach Me:
-- Email: aksashank2002@gmail.com
+- Email: aksashank.ind@gmail.com
 - LinkedIn: https://www.linkedin.com/in/krishna-sashank/
 
 ## ⚡️ Fun Fact:
